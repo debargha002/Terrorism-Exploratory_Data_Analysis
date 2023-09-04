@@ -13,6 +13,9 @@ The Terrorism Dataset Analysis delves into the complex landscape of terrorist in
 ## Dataset Description
 You can download the file from [Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd?select=globalterrorismdb_0718dist.csv)
 
+### NOTE- As the .twbx file exceeded the file size here, you can view the Tableau workbook from [here](https://public.tableau.com/views/EDA-Terrorism_16793279002920/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+
 
 
 
